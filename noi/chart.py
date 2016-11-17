@@ -9,10 +9,10 @@ def read_excel():
     print(curdict)
     file_path=curdict+r'\NOI.xlsx'
     workbook=xlrd.open_workbook(file_path)
-    sheet_name=workbook.sheet_names()[1]
+    sheet_name=workbook.sheet_names()[4]
     print("sheetName")
     print(sheet_name)
-    sheet=workbook.sheet_by_index(1)
+    sheet=workbook.sheet_by_index(4)
     print(sheet)
     excArray=[]
     curRID=0
@@ -22,7 +22,7 @@ def read_excel():
     colsNum=sheet.ncols
 
     formName = 'chart'
-    ignoreRowNum=3
+    ignoreRowNum=0
     for index in range(rowsNum-ignoreRowNum):
         i=index+ignoreRowNum
         if(sheet.cell(i,0).ctype==0):
@@ -30,19 +30,22 @@ def read_excel():
         else:
             excArray.append({})
             rowValues=[]
-            for j in range(colsNum):
-                rowValues.append({})
-                if j==0:
-                    excArray[curRID]['name']= sheet.cell(i,j).value
-                    rowValues[j]['rid']= formName+"_col"+str(j)+'_row'+str(curRID)
-                    rowValues[j]['value']= sheet.cell(i,j).value
-                else:
-                    rowValues[j]['rid']= formName+"_col"+str(j)+'_row'+str(curRID)
-                    if(sheet.cell(i,j).ctype==0):
-                        rowValues[j]['value']=""
+            if(curRID==0):
+                excArray[curRID]['name']='year'
+                #excArray[curRID]['lables']=[]
+                for j in range(colsNum-1):
+                    #rowValues.append({})
+                   rowValues.append(sheet.cell(i,(j+1)).value)
+            else:
+                for j in range(colsNum):
+                   # rowValues.append({})
+                    if j==0:
+                        excArray[curRID]['name']= sheet.cell(i,0).value
                     else:
-                         rowValues[j]['value']= sheet.cell(i,j).value
-
+                        if(sheet.cell(i,j).ctype==0):
+                            rowValues.append('')
+                        else:
+                            rowValues.append(sheet.cell(i,j).value)
             excArray[curRID]['values']=rowValues
             curRID+=1
     return excArray
@@ -50,7 +53,7 @@ def read_excel():
 
 def storeJson(obj):
     #with codecs.open('arrearage.json','w','utf-8') as f:
-    with open('fee.json', 'w') as f:
+    with open('chart.json', 'w') as f:
         f.write(json.dumps(obj, indent=4))
 
 if __name__ == "__main__":
