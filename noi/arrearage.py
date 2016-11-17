@@ -9,10 +9,10 @@ def read_excel():
     print(curdict)
     file_path=curdict+r'\NOI.xlsx'
     workbook=xlrd.open_workbook(file_path)
-    sheet_name=workbook.sheet_names()[1]
+    sheet_name=workbook.sheet_names()[2]
     print("sheetName")
     print(sheet_name)
-    sheet=workbook.sheet_by_index(1)
+    sheet=workbook.sheet_by_index(2)
     print(sheet)
     excArray=[]
     curRID=0
@@ -21,8 +21,8 @@ def read_excel():
     rowsNum=sheet.nrows
     colsNum=sheet.ncols
 
-    formName = 'fee'
-    ignoreRowNum=3
+    formName = 'arrearage'
+    ignoreRowNum=1
     for index in range(rowsNum-ignoreRowNum):
         i=index+ignoreRowNum
         if(sheet.cell(i,0).ctype==0):
@@ -50,7 +50,7 @@ def read_excel():
 
 def storeJson(obj):
     #with codecs.open('arrearage.json','w','utf-8') as f:
-    with open('fee.json', 'w') as f:
+    with open('arrearage.json', 'w') as f:
         f.write(json.dumps(obj, indent=4))
 
 if __name__ == "__main__":

@@ -21,7 +21,8 @@ def read_excel():
 
     formName='income'
     ignoreRowNum=3
-    for i in range(rowsNum-ignoreRowNum):
+    for index in range(rowsNum-ignoreRowNum):
+        i=index+3
         incomeArray.append({})
         rowValues=[]
         for j in range(colsNum):
@@ -29,14 +30,14 @@ def read_excel():
             #0- empty
             rowValues.append({})
             if j==0:
-                incomeArray[i]['name']= sheet.cell(i,j).value
+                incomeArray[curRID]['name']= sheet.cell(i,j).value
                 rowValues[j]['rid']= formName+"_col"+str(j)+'_row'+str(curRID)
                 rowValues[j]['value']= sheet.cell(i,j).value
             else:
                 rowValues[j]['rid']= formName+"_col"+str(j)+'_row'+str(curRID)
                 rowValues[j]['value']= sheet.cell(i,j).value
 
-        incomeArray[i]['values']=rowValues
+        incomeArray[curRID]['values']=rowValues
 
         curRID+=1
     return incomeArray
