@@ -1,0 +1,230 @@
+[
+    {
+        "values": [
+            {
+                "rid": "income_col0_row0", 
+                "value": "\u6536\u5165"
+            }, 
+            {
+                "rid": "income_col1_row0", 
+                "value": "2016-10\uff08\u4e07\u5143\uff09"
+            }, 
+            {
+                "rid": "income_col2_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col3_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col4_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col5_row0", 
+                "value": "\u5168\u5e74\u7d2f\u8ba1\uff08\u4e07\u5143\uff09"
+            }, 
+            {
+                "rid": "income_col6_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col7_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col8_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col9_row0", 
+                "value": "\u5168\u5e74\uff08\u4e07\u5143\uff09"
+            }, 
+            {
+                "rid": "income_col10_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col11_row0", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col12_row0", 
+                "value": ""
+            }
+        ], 
+        "name": "\u6536\u5165"
+    }, 
+    {
+        "values": [
+            {
+                "rid": "income_col0_row1", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col1_row1", 
+                "value": "\u5b9e\u9645"
+            }, 
+            {
+                "rid": "income_col2_row1", 
+                "value": "\u9884\u7b97"
+            }, 
+            {
+                "rid": "income_col3_row1", 
+                "value": "\u5dee\u5f02"
+            }, 
+            {
+                "rid": "income_col4_row1", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col5_row1", 
+                "value": "\u5b9e\u9645"
+            }, 
+            {
+                "rid": "income_col6_row1", 
+                "value": "\u9884\u7b97"
+            }, 
+            {
+                "rid": "income_col7_row1", 
+                "value": "\u5dee\u5f02"
+            }, 
+            {
+                "rid": "income_col8_row1", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col9_row1", 
+                "value": "\u9884\u6d4b"
+            }, 
+            {
+                "rid": "income_col10_row1", 
+                "value": "\u9884\u7b97"
+            }, 
+            {
+                "rid": "income_col11_row1", 
+                "value": "\u5dee\u5f02"
+            }, 
+            {
+                "rid": "income_col12_row1", 
+                "value": ""
+            }
+        ], 
+        "name": ""
+    }, 
+    {
+        "values": [
+            {
+                "rid": "income_col0_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col1_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col2_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col3_row2", 
+                "value": "\u5dee\u5f02\u989d"
+            }, 
+            {
+                "rid": "income_col4_row2", 
+                "value": "\u5dee\u5f02\u7387"
+            }, 
+            {
+                "rid": "income_col5_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col6_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col7_row2", 
+                "value": "\u5dee\u5f02\u989d"
+            }, 
+            {
+                "rid": "income_col8_row2", 
+                "value": "\u5dee\u5f02\u7387"
+            }, 
+            {
+                "rid": "income_col9_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col10_row2", 
+                "value": ""
+            }, 
+            {
+                "rid": "income_col11_row2", 
+                "value": "\u5dee\u5f02\u989d"
+            }, 
+            {
+                "rid": "income_col12_row2", 
+                "value": "\u5dee\u5f02\u7387"
+            }
+        ], 
+        "name": ""
+    }, 
+    {
+        "values": [
+            {
+                "rid": "income_col0_row3", 
+                "value": "\u79df\u91d1\u6536"
+            }, 
+            {
+                "rid": "income_col1_row3", 
+                "value": 138.82
+            }, 
+            {
+                "rid": "income_col2_row3", 
+                "value": 208.84
+            }, 
+            {
+                "rid": "income_col3_row3", 
+                "value": -70.02000000000001
+            }, 
+            {
+                "rid": "income_col4_row3", 
+                "value": -0.3352805975866693
+            }, 
+            {
+                "rid": "income_col5_row3", 
+                "value": 220.41
+            }, 
+            {
+                "rid": "income_col6_row3", 
+                "value": 290.43
+            }, 
+            {
+                "rid": "income_col7_row3", 
+                "value": -70.02000000000001
+            }, 
+            {
+                "rid": "income_col8_row3", 
+                "value": -0.24109079640533007
+            }, 
+            {
+                "rid": "income_col9_row3", 
+                "value": 759.57
+            }, 
+            {
+                "rid": "income_col10_row3", 
+                "value": 1015.45
+            }, 
+            {
+                "rid": "income_col11_row3", 
+                "value": -255.88
+            }, 
+            {
+                "rid": "income_col12_row3", 
+                "value": -0.2519868038800532
+            }
+        ], 
+        "name": "\u79df\u91d1\u6536"
+    }
+]
