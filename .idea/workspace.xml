@@ -23,31 +23,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fee.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/fee.py">
+      <file leaf-file-name="shopinfo_update.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rent_package/shopinfo_update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1273">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.6184739" vertical-offset="908" max-vertical-offset="1710">
+              <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fee.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/fee.json">
+      <file leaf-file-name="shopInfo.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rent_package/shopInfo.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="34.892857" vertical-offset="18400" max-vertical-offset="19627">
-              <caret line="917" column="28" selection-start-line="917" selection-start-column="26" selection-end-line="917" selection-end-column="28" />
+            <state vertical-scroll-proportion="-59.035713" vertical-offset="19" max-vertical-offset="321309">
+              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sum.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/sum.py">
+      <file leaf-file-name="irrplan.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rent_package/irrplan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="2356">
-              <caret line="80" column="48" selection-start-line="75" selection-start-column="17" selection-end-line="80" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1425">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="irrplan.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rent_package/irrplan.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13754" max-vertical-offset="49191">
+              <caret line="735" column="32" selection-start-line="735" selection-start-column="26" selection-end-line="735" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yueshang.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old/readexcel_日期update/yueshang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="3154">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,51 +83,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noi.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/noi.py">
+      <file leaf-file-name="rent_update.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rent_package/rent_update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="274" max-vertical-offset="1159">
-              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="1311">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noi.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/noi.json">
+      <file leaf-file-name="rentupdate.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rent_package/rentupdate.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="25.035715" vertical-offset="701" max-vertical-offset="1216">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2033">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chart.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1330">
-              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chart.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/noi/chart.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2873787" vertical-offset="663" max-vertical-offset="1178">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrearage.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/noi/arrearage.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="28.5" vertical-offset="855" max-vertical-offset="2337">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -133,14 +123,18 @@
         <option value="$PROJECT_DIR$/noi/noi.py" />
         <option value="$PROJECT_DIR$/noi/fee.py" />
         <option value="$PROJECT_DIR$/noi/chart.py" />
+        <option value="$PROJECT_DIR$/rent_package/rent_setup.py" />
+        <option value="$PROJECT_DIR$/rent_package/rent_update.py" />
+        <option value="$PROJECT_DIR$/rent_package/shopinfo.py" />
+        <option value="$PROJECT_DIR$/rent_package/irrplan.py" />
+        <option value="$PROJECT_DIR$/rent_package/shopinfo_update.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1859" />
-    <option name="y" value="-116" />
+    <option name="x" value="67" />
     <option name="width" value="1224" />
-    <option name="height" value="847" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -196,7 +190,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="rent_package" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readexcel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readexcel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="old" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readexcel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readexcel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="old" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="readexcel_日期update" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,6 +265,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\readexcel\rent_package" />
       <recent name="E:\readexcel\noi" />
       <recent name="E:\readexcel" />
     </key>
@@ -332,9 +359,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,6 +380,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -433,16 +460,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1859" y="-116" width="1224" height="847" extended-state="0" />
-    <editor active="false" />
+    <frame x="67" y="0" width="1224" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.086235486" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16323024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16580756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -450,10 +476,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -478,55 +505,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/base/yueshang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3268">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="2432">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#35#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/arrea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1767">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/all.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3553" max-vertical-offset="17689">
-          <caret line="187" column="5" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/old/arrearage.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="236873">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3458" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3268">
           <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,9 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="2432">
           <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#35#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,9 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1330" max-vertical-offset="1767">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3419" max-vertical-offset="17689">
           <caret line="187" column="5" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,15 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="236873">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3458" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1254" max-vertical-offset="3192">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,9 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1533" max-vertical-offset="2432">
           <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#35#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,15 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="236873">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3458" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="3192">
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,15 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="236873">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3230">
           <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,15 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="271919" max-vertical-offset="278711">
           <caret line="14631" column="32" selection-start-line="14631" selection-start-column="32" selection-end-line="14631" selection-end-column="32" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3458" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2033" max-vertical-offset="2603">
           <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,15 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="239153">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3458" max-vertical-offset="6403">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3249" max-vertical-offset="6384">
           <caret line="182" column="34" selection-start-line="182" selection-start-column="34" selection-end-line="182" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.5166163" vertical-offset="3724" max-vertical-offset="17689">
           <caret line="187" column="5" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.3286908" vertical-offset="0" max-vertical-offset="3192">
           <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,25 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="316825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u5546\u5bb6&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u4f18\u5370\u5802&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u60a0\u767e\u4f73&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-            <marker date="1470196143736" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;\u6709\u4e00\u5bb6\u9762&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/arrea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4644269" vertical-offset="0" max-vertical-offset="1767">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="543">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,15 +691,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.3886795" vertical-offset="4446" max-vertical-offset="21204">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/fee.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="36.92857" vertical-offset="18457" max-vertical-offset="19627">
+          <caret line="917" column="28" selection-start-line="917" selection-start-column="26" selection-end-line="917" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1330">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/arrearage.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.142858" vertical-offset="285" max-vertical-offset="2337">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/fee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1273">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rent_package/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1539">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/chart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1178">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/arrea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1767">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/site-packages/xlrd/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31860036" vertical-offset="15084" max-vertical-offset="27018">
+          <caret line="807" column="13" selection-start-line="807" selection-start-column="13" selection-end-line="807" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2356">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rent_package/rent_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="692" max-vertical-offset="1653">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rent_package/rent_setup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.857142" vertical-offset="19" max-vertical-offset="608">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/noi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="274" max-vertical-offset="1159">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/noi/noi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1216">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/noi/income.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.669903" vertical-offset="3950" max-vertical-offset="4465">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4465">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,32 +796,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2412523" vertical-offset="325" max-vertical-offset="1216">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noi/noi.py">
+    <entry file="file://$PROJECT_DIR$/rent_package/irrplan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="274" max-vertical-offset="1159">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1387">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noi/noi.json">
+    <entry file="file://$PROJECT_DIR$/rent_package/irrplan.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="25.035715" vertical-offset="701" max-vertical-offset="1216">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="13754" max-vertical-offset="49191">
+          <caret line="735" column="32" selection-start-line="735" selection-start-column="26" selection-end-line="735" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/sum.py">
+    <entry file="file://$PROJECT_DIR$/old/readexcel_日期update/yueshang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1072" max-vertical-offset="2356">
-          <caret line="80" column="48" selection-start-line="75" selection-start-column="17" selection-end-line="80" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="3154">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -852,42 +831,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noi/fee.json">
+    <entry file="file://$PROJECT_DIR$/rent_package/shopInfo.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="34.892857" vertical-offset="18400" max-vertical-offset="19627">
-          <caret line="917" column="28" selection-start-line="917" selection-start-column="26" selection-end-line="917" selection-end-column="28" />
+        <state vertical-scroll-proportion="-59.035713" vertical-offset="19" max-vertical-offset="321309">
+          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noi/arrearage.json">
+    <entry file="file://$PROJECT_DIR$/rent_package/shopinfo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.5" vertical-offset="855" max-vertical-offset="2337">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state vertical-scroll-proportion="1.8869779" vertical-offset="562" max-vertical-offset="1539">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/noi/fee.py">
+    <entry file="file://$PROJECT_DIR$/rent_package/rentupdate.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1273">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/noi/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1330">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/noi/chart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2873787" vertical-offset="663" max-vertical-offset="1178">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2033">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rent_package/rent_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="741" max-vertical-offset="1349">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rent_package/shopinfo_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6184739" vertical-offset="908" max-vertical-offset="1710">
+          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
           <folding />
         </state>
       </provider>
